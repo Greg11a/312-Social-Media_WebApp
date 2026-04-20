@@ -1,3 +1,4 @@
+[This Website is no longer maintained, yet it is still runnable on local machine]
 This is a group project from CSE 312 Web application charged by Jesse.
 The group meeting is scheduled every Wednesday 5:00pm - 7:00pm at Group Study Room in Silverman Library.
 
